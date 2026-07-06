@@ -1,0 +1,21 @@
+# Ambientes Virtuais
+venv/
+ENV/
+env/
+.venv/
+
+# Datasets locais (muito grandes para o git)
+brain-tumor-mri-dataset/
+*.zip
+*.tar.gz
+
+# Python cache e compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs e Sistema Operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
