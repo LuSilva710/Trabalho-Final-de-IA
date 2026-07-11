@@ -2,13 +2,7 @@
 
 Repositório para os 8 experimentos práticos utilizando Redes Neurais Convolucionais (CNN) e Vision Transformers para classificação de imagens de ressonância magnética.
 
----
 
-## 📺 Vídeo Explicativo do Projeto
-Assista ao vídeo explicativo dos códigos e experimentos no YouTube:
-👉 [Link do Vídeo - Apresentação de IA](https://youtu.be/vePPzw5Lcxo)
-
----
 
 ## 📂 Estrutura do Repositório
 * **`experimentos/`**: Contém os scripts Python (`exp1_cnn_base.py` até `exp8_transformer_otimizado.py`) com as modelagens de CNNs e Vision Transformers.
